@@ -1800,6 +1800,10 @@ version = "0.1.0"
 submodule = "extensions/high-contrast-themes"
 version = "0.1.0"
 
+[highlight]
+submodule = "extensions/highlight"
+version = "0.1.2"
+
 [hilleer-v-theme]
 submodule = "extensions/hilleer-v-theme"
 version = "0.0.1"

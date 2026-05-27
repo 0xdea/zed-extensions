@@ -1770,6 +1770,10 @@
 	path = extensions/high-contrast-themes
 	url = https://github.com/rakshit087/high-contrast-zed.git
 
+[submodule "extensions/highlight"]
+	path = extensions/highlight
+	url = https://github.com/0xdea/zed-highlight.git
+
 [submodule "extensions/hilleer-v-theme"]
 	path = extensions/hilleer-v-theme
 	url = https://github.com/hilleer/zed-v-theme.git
